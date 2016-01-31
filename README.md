@@ -20,6 +20,7 @@ This file is written in the [Markdown format](https://guides.github.com/features
 
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 
+* Aayushman Sharma [AlphaMale1996](https://github.com/AlphaMale1996)
 * Abhishek Kumar [shadow-stranger](http://github.com/shadow-stranger)
 * Abinash Meher [abinashmeher999](http://github.com/abinashmeher999)
 * Aditya Narayan [narayanaditya95](http://github.com/narayanaditya95)
@@ -51,3 +52,4 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Srichandra [srichandra](https://github.com/srichandra)
 * Joseph Nii Lante Lamptey [niiwade](https://github.com/niiwade)
 * Utkarsh Gupta [khalibartan](https://github.com/khalibartan)
+
